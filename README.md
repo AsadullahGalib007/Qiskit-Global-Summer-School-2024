@@ -32,5 +32,5 @@ pip install git+https://github.com/qiskit-community/Quantum-Challenge-Grader.git
 |---------------|:----------------------------------------------------------------------------------|
 
 <!-- ![Header](./assets/images/IBMQC2024-Certificate.jpg) -->
-
+![Header](./assets/images/QGSS2024.png)
 
