@@ -31,6 +31,6 @@ pip install git+https://github.com/qiskit-community/Quantum-Challenge-Grader.git
 |    :memo:     |   You will need an API token from IBM quantum to run on real Quantum Hardware    |
 |---------------|:----------------------------------------------------------------------------------|
 
-<!-- ![Header](./assets/images/IBMQC2024-Certificate.jpg) -->
-![Header](./assets/images/QGSS2024.png)
+![Header](./assets/images/QGSS2024-Certificate.jpg)
+<!-- ![Header](./assets/images/QGSS2024.png) -->
 
